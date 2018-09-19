@@ -1,6 +1,8 @@
 # Hunt the Wumpus
 I created this game in my Data Structures and Algorithms class at Colby College. 
 
+To play, you must compile and run "HuntTheWumpus.java"
+
 The game:
 The Hunter is trying to find and kill the Wumpus by arming and shooting. If the Hunter happens upon the space that the Wumpus is occupuying without being armed, they will die :(
 If the hunter arms himself/herself and shoots at the space they believe the Wumpus to be in, they will either a) aim correctly and win or b) miss the shot and lose.
